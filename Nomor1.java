@@ -22,6 +22,8 @@ public class Nomor1 {
       double N = N(alas, tinggi);
 
       System.out.println("Luas segitiga adalah: %.2f\n" + N);
+
+        scanner.close();
     }
         /* Pekerjaan anda berakhir sini */
 
